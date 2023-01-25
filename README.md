@@ -1,4 +1,4 @@
-# SGBud
+# SGBus
 
 Backend e Mobile do projeto SGBus.
 
