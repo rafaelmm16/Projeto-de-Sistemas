@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react-native",
+    "lib": [
+      "dom",
+      "esnext"
+    ],
+    "moduleResolution": "node",
+    "noEmit": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "strict": true
+  },
+  "resolutions": {
+    "styled-components": "^5"
+  },
+  "plugins": ["babel-plugin-styled-components"],
+  "extends": "expo/tsconfig.base"
+}
